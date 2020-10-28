@@ -471,6 +471,9 @@ margin-bottom: 30px;
     height: 8vh;
     background: #4D8AF0;
 }
+#footer a {
+    text-decoration: none;
+}
 #footer p {
     font-size: 18px;
     color: #fff;
