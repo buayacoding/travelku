@@ -1,3 +1,3 @@
 # travelku
 
-https://buayacoding.github.io/trvelku
+https://buayacoding.github.io/travelku
